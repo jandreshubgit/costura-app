@@ -6,7 +6,7 @@ import Dashboard from "./pages/dashboard";
 import Ventas from "./pages/ventas";
 import Gastos from "./pages/gastos";
 import Pedidos from "./pages/pedidos";
-import Inventario from "./pages/Inventario";
+import Inventario from "./pages/inventario";
 
 import "./styles/app.css";
 
